@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simrannayak647" alt="simrannayak647" /></a> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
+-  💬 About me **A passionate Computer Science student exploring the world of Full-Stack Development. Focused on building responsive, user-friendly web applications using the MERN Stack. Driven by curiosity, creativity, and the desire to turn ideas into functional code.**
 
 - 📫 How to reach me **simrannayak763@gmail.com**
 
