@@ -1,3 +1,82 @@
+<!-- README.md for Simran Nayak (GitHub profile) -->
+
+<!-- --------- Typing name animation (SVG) --------- -->
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="120" viewBox="0 0 760 120" role="img" aria-label="Simran Nayak">
+  <style>
+    .title { font: 36px 'Segoe UI', Roboto, Helvetica, Arial; fill:#0f172a; }
+    .sub { font: 16px 'Segoe UI', Roboto, Helvetica, Arial; fill:#334155; }
+  </style>
+
+  <!-- Subtitle -->
+  <text x="50%" y="36" class="sub" text-anchor="middle">Hi 👋, I'm</text>
+
+  <!-- Name typed letter-by-letter -->
+  <g transform="translate(30,64)">
+    <!-- Base invisible text to reserve spacing -->
+    <text class="title" fill="transparent">Simran Nayak</text>
+
+    <!-- Each letter as a tspan, with opacity animation to create "typing" -->
+    <text class="title">
+      <tspan x="0" dy="0">
+        <tspan opacity="0">
+          S
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.0s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">
+          i
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.08s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">
+          m
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.16s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">
+          r
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.24s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">
+          a
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.32s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">
+          n
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.40s" fill="freeze"/>
+        </tspan>
+
+        <!-- small space between first and last name -->
+        <tspan> </tspan>
+
+        <tspan opacity="0">
+          N
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.56s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">
+          a
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.64s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">
+          y
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.72s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">
+          a
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.80s" fill="freeze"/>
+        </tspan>
+        <tspan opacity="0">
+          k
+          <animate attributeName="opacity" values="0;1" dur="0.08s" begin="0.88s" fill="freeze"/>
+        </tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>
+
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Simran Nayak</h1>
 <h3 align="center">Computer Science & Engineering Student</h3>
 
