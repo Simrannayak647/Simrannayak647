@@ -63,6 +63,13 @@
 </p>
 
 ---
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simrannayak647&bg_color=ffffff&color=000000&line=00b300&point=006400&area=true&hide_border=true" />
+</p>
+
+
+---
 
 ### 📊 GitHub Stats
 
