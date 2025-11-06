@@ -1,4 +1,3 @@
-<!-- 🎯 HEADER BANNER -->
 
 <!-- 👁️ PROFILE VIEWS -->
 <p align="left">
