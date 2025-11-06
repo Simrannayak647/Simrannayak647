@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 -  💬 About me **A passionate Computer Science student exploring the world of Full-Stack Development. Focused on building responsive, user-friendly web applications using the MERN Stack. Driven by curiosity, creativity, and the desire to turn ideas into functional code.**
+-   📄 Know about my experiences [https://drive.google.com/file/d/1THmGUTp5fpo-IG-_2hOWOih1fC5PThwN/view?usp=sharing](https://drive.google.com/file/d/1THmGUTp5fpo-IG-_2hOWOih1fC5PThwN/view?usp=sharing)
+
 
 - 📫 How to reach me **simrannayak763@gmail.com**
 
