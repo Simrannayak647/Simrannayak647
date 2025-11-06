@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="https://github.com/Simrannayak647/Simrannayak647/blob/main/Add%20a%20heading.png" alt="Simran Nayak Banner" width="2000">
+  <img src="https://github.com/Simrannayak647/Simrannayak647/blob/main/Add%20a%20heading.png" alt="Simran Nayak Banner" width="1000">
 </p>
-<h1 align="center">Hey there 👋</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simrannayak647&label=Profile%20views&color=0e75b6&style=flat" alt="simrannayak647" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simrannayak647" alt="simrannayak647" /></a> </p>
-
+<h4 align="left">Hey there 👋</h1>
 - 🌱 I’m currently learning **Full-Stack Web Development**
 -  💬 About me **A passionate Computer Science student exploring the world of Full-Stack Development. Focused on building responsive, user-friendly web applications using the MERN Stack. Driven by curiosity, creativity, and the desire to turn ideas into functional code.**
 -   📄 Know about my experiences [https://drive.google.com/file/d/1THmGUTp5fpo-IG-_2hOWOih1fC5PThwN/view?usp=sharing](https://drive.google.com/file/d/1THmGUTp5fpo-IG-_2hOWOih1fC5PThwN/view?usp=sharing)
 
 
 - 📫 How to reach me **simrannayak763@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simrannayak647&label=Profile%20views&color=0e75b6&style=flat" alt="simrannayak647" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simrannayak647" alt="simrannayak647" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
