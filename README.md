@@ -1,14 +1,11 @@
 <!-- 🎯 HEADER BANNER -->
-<!-- <p align="center">
-  <img src="https://github.com/Simrannayak647/Simrannayak647/blob/main/Add%20a%20heading.png?raw=true" alt="Simran Nayak Banner" width="1000">
-</p> -->
 
 <!-- 👁️ PROFILE VIEWS -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=simrannayak647&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
+
 
 <h2 align="center">Hey there 👋, I'm Simran Nayak</h2>
 <h4 align="center">💻 Computer Science & Engineering Student | Aspiring Full-Stack Developer</h4>
@@ -26,15 +23,16 @@
 
 ---
 
+
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simrannayak647&theme=gruvbox&margin-w=10&margin-h=10&row=1&no-frame=true" alt="Trophies" />
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simrannayak647" alt="simrannayak647" /></a> </p>
 </p>
 
 ---
 
 ### 🤝 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/simran-nayak-871410244" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
@@ -67,19 +65,16 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simrannayak647&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simrannayak647&theme=radical" alt="GitHub Streak" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simrannayak647&show_icons=true&locale=en&layout=compact" alt="simrannayak647" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simrannayak647&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simrannayak647&show_icons=true&locale=en" alt="simrannayak647" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simrannayak647&" alt="simrannayak647" /></p>
+
 
 ---
+
 
 <p align="center">
   <i>✨ “Code. Learn. Evolve.” ✨</i>
