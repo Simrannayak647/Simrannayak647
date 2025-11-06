@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Simrannayak647/Simrannayak647/blob/main/github-header-banner%20(2).png?raw=true" alt="Simran Nayak Banner" width="1000">
+  <img src="https://github.com/Simrannayak647/Simrannayak647/blob/main/Add%20a%20heading.png" alt="Simran Nayak Banner" width="2000">
 </p>
+<h1 align="center">Hey there 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrannayak647&label=Profile%20views&color=0e75b6&style=flat" alt="simrannayak647" /> </p>
 
