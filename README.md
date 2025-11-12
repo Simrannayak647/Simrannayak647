@@ -4,7 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=simrannayak647&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <h2 align="center">Hey there 👋, I'm Simran Nayak</h2>
 <h4 align="center">💻 Computer Science & Engineering Student | Aspiring Full-Stack Developer</h4>
