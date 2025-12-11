@@ -10,6 +10,9 @@
 
 <h2 align="center">Hey there 👋, I'm Simran Nayak</h2>
 <h4 align="center">💻 Computer Science & Engineering Student | Aspiring Full-Stack Developer</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B9CD3&size=22&center=true&vCenter=true&width=550&lines=Code.+Build.+Break.+Fix.+Repeat.;Full-Stack+Developer+in+Progress.;Always+Learning+%26+Always+Shipping+✨" />
+</p>
 
 ---
 
@@ -34,17 +37,6 @@
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/simran-nayak-871410244" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-  </a>
-  <a href="https://instagram.com/_siiiimrann" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
-  </a>
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="center">
@@ -97,11 +89,10 @@
 </p>
 
 ---
-### 📈 Contribution Graph
+## 📈 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=simrannayak647&bg_color=ffffff&color=000000&line=00b300&point=006400&area=true&hide_border=true" />
 </p>
-
 
 ---
 
@@ -116,6 +107,17 @@
 
 ---
 
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/simran-nayak-871410244" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  </a>
+  <a href="https://instagram.com/_siiiimrann" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <i>✨ “Code. Learn. Evolve.” ✨</i>
