@@ -112,7 +112,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simrannayak647&" alt="simrannayak647" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simrannayak647&show_icons=true&locale=en&layout=compact" alt="simrannayak647" /></p>
 
 ---
 
