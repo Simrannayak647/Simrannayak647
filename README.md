@@ -95,7 +95,15 @@
 </p>
 
 ---
+## 🏗️ Featured Projects  
 
+| 🎯 Project | 🛠 Tech Stack | 📌 Description |
+|-----------|---------------|----------------|
+| **🍽️ Restaurant Recommendation System** | Python, Flask, Scikit-learn, Surprise (SVD), Pandas, NumPy, NLTK, Plotly, HTML/CSS/JS | Intelligent recommendation system blending Collaborative + Content-Based filtering. Suggests restaurants using preferences, budget, diet, and location with a hybrid ML model. |
+| **🛡️ Malware Detection & Classification System** | Python, Flask, scikit-learn (Random Forest), pandas, numpy, joblib, pefile | Classifies Windows `.exe` files as Malware/Benign using static analysis + ML. Includes a clean UI, real-time predictions, and feature extraction via `pefile`. |
+
+
+---
 ### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simrannayak647&show_icons=true&locale=en&layout=compact" alt="simrannayak647" /></p>
