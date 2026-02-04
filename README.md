@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning **Full-Stack Web Development**
 - 👯 I’m looking to collaborate on ****web development projects** — especially creative front-end or MERN Stack applications.**
 - 🤝 I’m looking for help with ****learning and growing as a Full-Stack Developer — from building projects to mastering deployment.****
-- 📄 View my resume → [Click Here](https://drive.google.com/file/d/1THmGUTp5fpo-IG-_2hOWOih1fC5PThwN/view?usp=sharing)
+- 📄 View my resume → [Click Here](https://drive.google.com/file/d/1Pbv14vfjJhSuLyckHrvXC27evI37mz2c/view?usp=sharing)
 - 📫 Reach me at **simrannayak763@gmail.com**
 
 ---
