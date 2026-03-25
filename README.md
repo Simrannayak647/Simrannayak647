@@ -9,7 +9,7 @@
 </div> -->
 
 <h2 align="center">Hey there 👋, I'm Simran Nayak</h2>
-<h4 align="center">💻 Computer Science & Engineering Student | Aspiring Full-Stack Developer</h4>
+<h4 align="center">💻 Frontend Developer | Full-Stack Enthusiast | CS Graduate</h4>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4B9CD3&size=22&center=true&vCenter=true&width=550&lines=Code.+Build.+Break.+Fix.+Repeat.;Full-Stack+Developer+in+Progress.;Always+Learning+%26+Always+Shipping+✨" />
 </p>
@@ -17,11 +17,11 @@
 ---
 
 ### 💬 About Me
-🚀 A passionate Computer Science student exploring the world of Full-Stack Development.  
+🎓 B.Tech in Computer Science & Engineering  – Dr. D. Y. Patil Agriculture & Technical University.   
 🎯 Focused on building responsive, user-friendly web applications using the **MERN Stack**.  
 🌱 Continuously learning, experimenting, and turning creative ideas into real-world projects.
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 Currently diving deeper into **full‑stack development** with the MERN stack  
 - 👯 I’m looking to collaborate on ****web development projects** — especially creative front-end or MERN Stack applications.**
 - 🤝 I’m looking for help with ****learning and growing as a Full-Stack Developer — from building projects to mastering deployment.****
 - 📄 View my resume → [Click Here](https://drive.google.com/file/d/1Pbv14vfjJhSuLyckHrvXC27evI37mz2c/view?usp=sharing)
@@ -39,56 +39,58 @@
 
 
 ### 🛠️ Languages & Tools
+
+
 <p align="center">
-  <a href="https://developer.android.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="60" height="60"/> 
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60"/> 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/> 
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60"/> 
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60" height="60"/> 
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="Express" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> 
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
   </a>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/> 
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind CSS" />
   </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/> 
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" alt="Material UI" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/> 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> 
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/> 
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" />
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/> 
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" width="60" height="60" alt="PHP" />
   </a>
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" />
   </a>
 
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
+  </a>
 </p>
 
----
+
 ## 📈 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=simrannayak647&bg_color=ffffff&color=000000&line=00b300&point=006400&area=true&hide_border=true" />
@@ -114,7 +116,6 @@
 
 
 ---
-
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/simran-nayak-871410244" target="_blank">
@@ -122,8 +123,13 @@
   </a>
   <a href="https://instagram.com/_siiiimrann" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
+  </a> 
+  <a href="mailto:simrannayak763@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
+  
 </p>
+
 
 ---
 
