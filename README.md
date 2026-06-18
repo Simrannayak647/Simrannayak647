@@ -54,7 +54,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=simrannayak647&repo=Restaurant-Recommendation-System&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/simrannayak647" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simrannayak647&repo=Malware-Detection-System&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simrannayak647&repo=Malware-Detection-And-Classification.git&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
