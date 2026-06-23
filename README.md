@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://drive.google.com/file/d/1Pbv14vfjJhSuLyckHrvXC27evI37mz2c/view">
+  <a href="https://drive.google.com/file/d/1yOVNOut8G7sbLNwXVYOpLJHRqLzMoYLP/view">
     <img src="https://img.shields.io/badge/Resume-8E2DE2?style=flat&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -50,7 +50,6 @@ I also have experience in SEO and client communication, and I'm currently expand
 - 🎓 B.Tech in Computer Science & Engineering — Dr. D. Y. Patil Agriculture & Technical University
 - 🌱 Deepening my full-stack skills with the **MERN Stack**
 - 👯 Open to collaborating on creative front-end or MERN stack projects
-- 🤝 Looking for mentorship on building, deploying, and scaling real-world apps
 - ⚡ Fun fact: I enjoy turning messy ideas into clean, working code
 -  📫 Reach me at **simrannayak763@gmail.com**
 
